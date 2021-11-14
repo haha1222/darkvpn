@@ -1,4 +1,4 @@
-# V2Ray Heroku
+# dark vpn
 
 **Heroku 已经封禁本专案，请 Fork 本专案后，将 `README.md` 中的 `bclswl0827` 替换为自己的用户名后，再进行部署。**
 
